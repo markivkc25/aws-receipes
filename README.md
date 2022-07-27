@@ -1,1 +1,1 @@
-# aws-receipes
+# AWS Recipes
